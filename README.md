@@ -1,4 +1,4 @@
-<a href=""><img class='header-img' src='https://codingwithmitch.s3.amazonaws.com/static/building-a-website-django-python/images/Python_web_development.png' /></a>
+<a href=""><img class='header-img' src='/static/building-a-website-django-python/images/Python_web_development.png' /></a>
 <a href=""><h1>Building a Website with Django (Python)</h1></a>
 
 <p>Learn how to build a website with <strong>Django</strong>, the web development framework for <strong>Python</strong>.</p>
